@@ -1,0 +1,97 @@
+.page{
+    background-image: url("Landing\ BG.png");
+    width: 1520px;
+    height: 560px;
+   
+
+}
+.back{
+    background-image: url("Rectangle\ 1\ \(2\).png");
+    width: 1520px;
+    height: 600px; 
+    margin: -8px ;
+}
+
+
+.form-search{
+    background-color: rgb(255, 95, 164);
+    width: 400px;
+    height:40px;
+    border-radius: 40px;
+    color: aliceblue;
+    font-size: 16px;
+    border: 0.5px solid #3D3D3D;
+}
+.search{
+    margin: 60px 120px;
+}
+.login-buttons{
+    margin: 60px 120px;
+}
+
+.button1 {border-radius: 40px;}
+
+
+text{
+    color: aliceblue;
+}
+navbar{
+    display: flex;
+    justify-content: space-between;
+    margin: -10px;
+    
+}
+header{
+    background-image: url("Landing\ BG.png");
+    width: 100px;
+    height: 0px;
+}
+
+
+
+
+
+
+
+.button0{
+    background-color: rgb(255, 95, 164);
+    border: none;
+    text-decoration: none;
+    list-style-type: none;
+    
+}
+.button1{
+    background-color: rgb(255, 95, 164);
+    border: none;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    margin-right: 50px;
+    list-style-type: none;
+
+}
+
+button {border-radius: 65px;}
+.tekst{
+    margin: -460px 400px;
+}
+.phon{
+    display: flex;
+    justify-content: flex-end;
+    margin: 150px -0px;
+}
+.insta{
+    display: flex;
+    justify-content: end;
+}
+.byk{
+    margin: -30px 9px;
+}
+.byk2{
+    margin:-30px 20px;  
+}
+.byk3{
+    margin: -30px 5px;  
+}
